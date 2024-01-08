@@ -6,13 +6,13 @@ PDF-Analyser is a Python project developed to facilitate interactive and semanti
 ![Screenshot 2024-01-08 163327](https://github.com/jaisurya27/PDF-Analyser/assets/64311010/087a8e62-2475-4462-9e34-c9e7ba9b438e)
 
 ## Features
-PDF Upload: Multiple PDFs can be uploaded simultaneously.
-Chunking: Converts extracted text into manageable chunks.
-Vector Database: Stores the text chunks in a vector database (FAISS).
-Chat Interface: Provides a user-friendly chat screen for interacting with the PDF data.
-Semantic Search: Performs a semantic search on the vector store using user queries.
-GPT-3.5 Integration: Passes vector results to OpenAI GPT-3.5 for generating relevant 
-Chat History: Preserves chat history to maintain context for generating more coherent responses.
+- PDF Upload: Multiple PDFs can be uploaded simultaneously.
+- Chunking: Converts extracted text into manageable chunks.
+- Vector Database: Stores the text chunks in a vector database (FAISS).
+- Chat Interface: Provides a user-friendly chat screen for interacting with the PDF data.
+- Semantic Search: Performs a semantic search on the vector store using user queries.
+- GPT-3.5 Integration: Passes vector results to OpenAI GPT-3.5 for generating relevant 
+- Chat History: Preserves chat history to maintain context for generating more coherent responses.
 
 ## Installation
 1. Clone the Repository
