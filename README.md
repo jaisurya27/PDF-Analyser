@@ -1,4 +1,4 @@
-# PDF-Analyser
+# PDF-GPT-Analyser
 GPT-powered PDF Analyser. Upload Multiple PDFs and chat with them. 
 
 ## Overview
